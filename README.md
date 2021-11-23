@@ -75,8 +75,7 @@ easier for UI work as next.js is very compute heavy when re-rendering changes in
 yarn storybook
 ```
 
-Stories should be viewable at <http://localhost:6006> A live version of storybook on parity with the
-staging environment can be found by navigating to <https://storybook.oasis.app>.
+
 
 For specific deployments, users can navigate to
 [https://storybook.oasis.app/<COMMIT_HASH>/index.html](https://storybook.oasis.app/<COMMIT_HASH>/index.html])
